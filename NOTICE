@@ -1,0 +1,19 @@
+PerfTicker for macOS — unofficial Apple Silicon reimplementation
+
+Upstream: https://github.com/QiuSui1145/PerfTicker
+Original author: QiuSui (@QiuSui1145), QiuSui_Studio
+Reference revision: 6a3533e8066b5bc4fbfff1569debd1bc87ce9a54 (v1.4.0)
+Upstream copyright notice: Copyright (C) 2026 QiuSui / QiuSui_Studio
+Upstream metadata copyright notice: © 2026 PerfTicker
+The LICENSE file was losslessly transcoded from GB18030-compatible bytes
+to UTF-8 so the upstream Chinese title remains readable.
+
+The upstream project's concept, interface design and virtual-economy rules
+informed this macOS reimplementation. Original attribution is retained.
+New macOS implementation and documentation: copyright 2026 OhOopsKazuha
+and subsequent contributors. Distributed under GNU GPL version 3.0.
+See LICENSE for the complete terms.
+
+No upstream endorsement is implied. Apple system frameworks and trademarks
+remain the property of their respective owners. No third-party framework
+binaries are bundled in this source repository.
