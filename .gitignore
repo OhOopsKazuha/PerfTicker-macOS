@@ -1,0 +1,17 @@
+# Build products and local sampling data
+/dist/
+/build/
+*.app/
+*.dSYM/
+*.o
+*.log
+*.zip
+.DS_Store
+._*
+.env
+.env.*
+*.pem
+*.key
+sample*.json
+smoke*.json
+preview*.png
