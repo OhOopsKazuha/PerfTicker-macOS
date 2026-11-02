@@ -1,0 +1,16 @@
+name: Feature request / 功能建议
+description: 说明使用场景和可验证的预期行为
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 使用场景与当前困难
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 预期行为与可接受的限制
+    validations:
+      required: true
